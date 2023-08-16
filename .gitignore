@@ -1,2 +1,5 @@
 venv
 .idea
+/1_data_analitics_beginner/04_EDA/kiva/kiva_mpi_region_locations.csv
+/1_data_analitics_beginner/04_EDA/kiva/kiva_loans.csv
+/1_data_analitics_beginner/03_matplotlib/ap-northeast-1.csv
